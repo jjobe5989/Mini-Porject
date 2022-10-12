@@ -1,2 +1,2 @@
-# Mini-Porject
+# Mini-Project
 Class mini project
